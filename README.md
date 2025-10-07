@@ -1,3 +1,3 @@
 # Product-Value-Classfication-
-I join 3  tables with a foreign key and then calculate the revenue for multiple products 
-I also classify the products as low or high value products depending on the revenue generated while limiting results to the year 2020 and beyond 
+I use the LEFT JOIN statement to connect multiple tables wiht a foreign key, and assing aliases to each column from each table as I write the query. 
+I then use a CASE WHEN stetment to assign HIGH or LOW conditions to various orders wrapping it up by using the WHERE statement to select only orders from a certain date. 
